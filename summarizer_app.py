@@ -47,9 +47,9 @@ style_options = {
 
 
 length_settings = {
-    "Short": {"min": 200, "max": 300},
-    "Medium": {"min": 500, "max": 800},
-    "Long": {"min": 1000, "max": 2000}
+    "Short": {"min": 20, "max": 40},
+    "Medium": {"min": 100, "max": 200},
+    "Long": {"min": 300, "max": 500}
 }
 
 
